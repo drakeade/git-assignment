@@ -1,3 +1,5 @@
 version 1 project version start
  <doctype/>
-<html>source code<html/>
+<html>
+<body>source code</body>
+<html/>
